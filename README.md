@@ -37,6 +37,15 @@ It helps me practice:
 - Connecting frontend and backend logic  
 - Creating a real, functional mini‑blog  
 
+---
+
+## 🙏 Acknowledgment
+
+This project was inspired by the **Web Developer Bootcamp with Flask and Python** taught by **Jose Salvatierra** on Udemy.  
+I built this microblog as part of my learning journey and plan to extend it with my own features and improvements.
+
+---
+
 ## 📸 Screenshots
 
 ### 🟢 At Start
