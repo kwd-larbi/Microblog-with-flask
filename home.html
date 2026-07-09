@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Micro blog</title>
+</head>
+<body>
+    <header class="navbar">
+        <div class="navbar__brand"> <img src="SVG logo.svg" alt="The Microblog Logo" />Microblog
+        </div>
+       <ul class="navbar__navigation">
+        <li class="navbar__navigation-item"><a href="#" class="navbar__link">Recent</a></li>
+        <li class="navbar__navigation-item"><a href="#" class="navbar__link">Calender</a> </li>
+
+       </ul>
+    </header>
+    <main>
+        <section>
+            <h1>Add new entry</h1>
+            <form class="form" action="/entry" method="POST">
+                <p class="form__input">
+                    <label for="entry" class="form__label">Entry contents</label>
+                    <textarea name="content" id="entry" class="form__textarea"></textarea>
+                    <button type="submit" class="form__submit">Submit</button>
+                </p>
+                
+            </form>
+        </section>
+        <section>
+            <h1>Recent Posts</h1>
+            <article>
+                <div>
+                    <h2>A bit of a chill day today</h2>
+                    <time datetime="9-7-2026">July 7</time>
+
+                </div>
+                <p>
+                    Today I couldn't do much programming, but that's OK! Cant be too awesome every day now!
+                </p>
+            </article>
+        </section>
+    </main>
+    <footer></footer>
+</body>
+</html>
