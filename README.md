@@ -37,3 +37,16 @@ It helps me practice:
 - Connecting frontend and backend logic  
 - Creating a real, functional mini‑blog  
 
+## 📸 Screenshots
+
+### 🟢 At Start
+Here’s the initial stage of my Microblog project:
+
+![Microblog Start](ScreenShots/Screenshot%202026-07-09%20120624.png)
+
+---
+
+### 🔵 Now (Current Stage)
+Here’s the updated version with improvements:
+
+![Microblog Now](ScreenShots/Screenshot%202026-07-09%20122641.png)
